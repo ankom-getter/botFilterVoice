@@ -1,0 +1,22 @@
+## Папки компіляції та бінарні файли (найважливіше)
+bin/
+obj/
+publish/
+
+## Файли налаштувань JetBrains Rider
+.idea/
+*.sln.iml
+
+## Файли Visual Studio та користувацькі конфігурації
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Системні файли macOS
+.DS_Store
+
+## Файли з секретами та токенами
+.env
+appsettings.json
+appsettings.Development.json
